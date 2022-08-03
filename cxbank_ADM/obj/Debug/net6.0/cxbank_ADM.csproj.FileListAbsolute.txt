@@ -1,0 +1,15 @@
+C:\Users\Peu_o\Desktop\PROJETOS C#\cxbank_ADM\cxbank_ADM\bin\Debug\net6.0\cxbank_ADM.exe
+C:\Users\Peu_o\Desktop\PROJETOS C#\cxbank_ADM\cxbank_ADM\bin\Debug\net6.0\cxbank_ADM.deps.json
+C:\Users\Peu_o\Desktop\PROJETOS C#\cxbank_ADM\cxbank_ADM\bin\Debug\net6.0\cxbank_ADM.runtimeconfig.json
+C:\Users\Peu_o\Desktop\PROJETOS C#\cxbank_ADM\cxbank_ADM\bin\Debug\net6.0\cxbank_ADM.dll
+C:\Users\Peu_o\Desktop\PROJETOS C#\cxbank_ADM\cxbank_ADM\bin\Debug\net6.0\cxbank_ADM.pdb
+C:\Users\Peu_o\Desktop\PROJETOS C#\cxbank_ADM\cxbank_ADM\obj\Debug\net6.0\cxbank_ADM.csproj.AssemblyReference.cache
+C:\Users\Peu_o\Desktop\PROJETOS C#\cxbank_ADM\cxbank_ADM\obj\Debug\net6.0\cxbank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peu_o\Desktop\PROJETOS C#\cxbank_ADM\cxbank_ADM\obj\Debug\net6.0\cxbank_ADM.AssemblyInfoInputs.cache
+C:\Users\Peu_o\Desktop\PROJETOS C#\cxbank_ADM\cxbank_ADM\obj\Debug\net6.0\cxbank_ADM.AssemblyInfo.cs
+C:\Users\Peu_o\Desktop\PROJETOS C#\cxbank_ADM\cxbank_ADM\obj\Debug\net6.0\cxbank_ADM.csproj.CoreCompileInputs.cache
+C:\Users\Peu_o\Desktop\PROJETOS C#\cxbank_ADM\cxbank_ADM\obj\Debug\net6.0\cxbank_ADM.dll
+C:\Users\Peu_o\Desktop\PROJETOS C#\cxbank_ADM\cxbank_ADM\obj\Debug\net6.0\refint\cxbank_ADM.dll
+C:\Users\Peu_o\Desktop\PROJETOS C#\cxbank_ADM\cxbank_ADM\obj\Debug\net6.0\cxbank_ADM.pdb
+C:\Users\Peu_o\Desktop\PROJETOS C#\cxbank_ADM\cxbank_ADM\obj\Debug\net6.0\cxbank_ADM.genruntimeconfig.cache
+C:\Users\Peu_o\Desktop\PROJETOS C#\cxbank_ADM\cxbank_ADM\obj\Debug\net6.0\ref\cxbank_ADM.dll
